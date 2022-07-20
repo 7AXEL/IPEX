@@ -1,6 +1,6 @@
 <!-- IPEX -->
 ### IPEX-TOOL
-<p align="center">IPEX-TOOL</p>
+<p align="center">𝙄𝙋𝙀𝙓 𝙏𝙊𝙊𝙇</p>
 <p align="center">
   <img src="https://github.com/7AXEL/IPEX/blob/main/LOGO.jpg">
 </p>
