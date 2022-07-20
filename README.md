@@ -1,13 +1,7 @@
 <!-- IPEX -->
-
-<p align="center">
-  <img src=".imgs/LOGO.jpg">
-</p>
-
 <p align="center">
   <img src="https://github.com/7AXEL/IPEX/blob/main/LOGO.jpg">
 </p>
-
 
 <p align="center">IPEX TOOL</p>
 
