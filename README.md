@@ -1,6 +1,7 @@
 <!-- IPEX -->
 ### IPEX-TOOL
 <p align="center">𝙄𝙋𝙀𝙓 𝙏𝙊𝙊𝙇</p>
+  <img src="https://img.shields.io/badge/Version-1.0-yellow?style=for-the-badge">
 <p align="center">
   <img src="https://github.com/7AXEL/IPEX/blob/main/LOGO.jpg">
 </p>
