@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
+  <img src="https://github.com/7AXEL/IPEX/blob/main/LOGO.jpg">
 </p>
 
 
