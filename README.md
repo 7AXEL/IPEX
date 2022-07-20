@@ -1,6 +1,7 @@
 <!-- IPEX -->
 <p align="center">
 <img src="https://img.shields.io/badge/IPEX TOOL-bg?style=for-the-badge">
+<p align="center">
 <img src="https://img.shields.io/badge/POWERFUL TOOL V1.0-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Author-A.X.E.L-red?style=flat-square">
 <img src="https://img.shields.io/badge/Open%20Source-Yes-magenta?style=flat-square">
