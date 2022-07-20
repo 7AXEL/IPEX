@@ -1,9 +1,11 @@
 <!-- IPEX -->
+### IPEX-TOOL
+<p align="center">IPEX-TOOL</p>
 <p align="center">
   <img src="https://github.com/7AXEL/IPEX/blob/main/LOGO.jpg">
 </p>
 
-<p align="center">IPEX TOOL</p>
+
 
 ### IPEX
 These tools were programmed and tested by the hacker A.X.E.L and These tools are used to withdraw the ip adress and ports of websites, as well as to locate the server or the IP
