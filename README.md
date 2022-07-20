@@ -1,13 +1,16 @@
 <!-- IPEX -->
-### IPEX-TOOL
-<p align="center">𝙄𝙋𝙀𝙓 𝙏𝙊𝙊𝙇</p>
-  <img src="https://img.shields.io/badge/Version-1.0-yellow?style=for-the-badge">
 <p align="center">
-  <img src="https://github.com/7AXEL/IPEX/blob/main/LOGO.jpg">
+<img src="https://img.shields.io/badge/IPEX TOOL-redbg?style=for-the-badge">
+<p align="center">
+<img src="https://img.shields.io/badge/POWERFUL TOOL V1.0-orange?style=for-the-badge">
+
+<p align="center">
+<img src="https://img.shields.io/badge/Author-A.X.E.L-red?style=flat-square">
+<img src="https://img.shields.io/badge/Open%20Source-Yes-magenta?style=flat-square">
+<img src="https://img.shields.io/badge/Written%20In-BASH,PYTHON,JS-green?style=flat-square">
 </p>
-
-
-
+<img src="https://github.com/7AXEL/IPEX/blob/main/LOGO.jpg">
+</p>
 ### IPEX
 These tools were programmed and tested by the hacker A.X.E.L and These tools are used to withdraw the ip adress and ports of websites, as well as to locate the server or the IP
 ### FEATURS
