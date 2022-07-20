@@ -40,4 +40,3 @@ $ python3 MAIN.py
 - `python3`
 - `git`
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
-
