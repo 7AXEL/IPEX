@@ -26,7 +26,7 @@ $ git clone https://github.com/7AXEL/IPEX
 ```
 ```
 $ apt-get update && upgrade
-$ apt-get install python3 nodejs python-vlc
+$ apt-get install python3 nodejs vlc
 $ cd IPEX
 $ pip install -r PIP.txt
 ```
