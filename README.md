@@ -42,3 +42,7 @@ $ python3 MAIN.py
 - `python3`
 - `git`
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
+<p align="center">
+<img src="https://img.shields.io/badge/OTHERS TOOLS-COMINGSON-magenta?style=flat-square">
+<p align="center">
+<img src="https://img.shields.io/badge/A.X.E.L-brown?style=flat-square">
